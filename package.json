@@ -21,7 +21,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "elliptic": "^6.5.3",
+    "elliptic": "^6.5.4",
     "lodash": "^4.17.20",
     "minimist": "^1.2.5",
     "serialize-javascript": "^4.0.0"
